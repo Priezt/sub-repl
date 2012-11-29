@@ -9,11 +9,13 @@
 ## Example
 
 ```javascript
+$ sub-repl
 > var request = require("request")
 > request.get("http://www.google.com/", repl("result"))
 result> args[1]
 ... Here goes the HTML ...
 result> .exit
->
+> .exit
+$ 
 ```
 

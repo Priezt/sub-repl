@@ -3,7 +3,7 @@
 	"description": "Just another REPL which allow you to spawn new repls",
 	"keywords": ["javascript", "node", "repl"],
 	"author": "Priezt",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"bin": {
 		"sub-repl": "./bin/sub-repl.js"
 	},
