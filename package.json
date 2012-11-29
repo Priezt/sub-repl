@@ -9,5 +9,9 @@
 	},
 	"bin": {
 		"sub-repl": "./bin/sub-repl.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Priezt/sub-repl"
 	}
 }
