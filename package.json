@@ -3,7 +3,7 @@
 	"description": "Just another REPL which allow you to spawn new repls",
 	"keywords": ["javascript", "node", "repl"],
 	"author": "Priezt",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"engines": {
 		"node": ">=0.8.15"
 	},
