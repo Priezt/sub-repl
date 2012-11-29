@@ -1,0 +1,13 @@
+{
+	"name": "sub-repl",
+	"description": "Just another REPL which allow you to spawn new repls",
+	"keywords": ["javascript", "node", "repl"],
+	"author": "Priezt",
+	"version": "1.0.2",
+	"engines": {
+		"node": ">=0.8.15"
+	},
+	"bin": {
+		"sub-repl": "./bin/sub-repl.js"
+	}
+}
